@@ -11,6 +11,7 @@
 		AF06071A2930FD5A0070F53D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF0607192930FD5A0070F53D /* ContentView.swift */; };
 		AF06071C2930FD5C0070F53D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AF06071B2930FD5C0070F53D /* Assets.xcassets */; };
 		AF06071F2930FD5C0070F53D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AF06071E2930FD5C0070F53D /* Preview Assets.xcassets */; };
+		AF0607262930FD920070F53D /* DoCatchTryThrowsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF0607252930FD920070F53D /* DoCatchTryThrowsBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		AF0607192930FD5A0070F53D /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		AF06071B2930FD5C0070F53D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AF06071E2930FD5C0070F53D /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		AF0607252930FD920070F53D /* DoCatchTryThrowsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DoCatchTryThrowsBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				AF0607172930FD5A0070F53D /* SwiftConcurrencyBootcampApp.swift */,
 				AF0607192930FD5A0070F53D /* ContentView.swift */,
+				AF0607252930FD920070F53D /* DoCatchTryThrowsBootcamp.swift */,
 				AF06071B2930FD5C0070F53D /* Assets.xcassets */,
 				AF06071D2930FD5C0070F53D /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AF0607262930FD920070F53D /* DoCatchTryThrowsBootcamp.swift in Sources */,
 				AF06071A2930FD5A0070F53D /* ContentView.swift in Sources */,
 				AF0607182930FD5A0070F53D /* SwiftConcurrencyBootcampApp.swift in Sources */,
 			);
