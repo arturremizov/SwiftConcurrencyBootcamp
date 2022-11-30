@@ -15,6 +15,7 @@
 		AF2044E329339D36004DEF50 /* AsyncAwaitBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF2044E229339D36004DEF50 /* AsyncAwaitBootcamp.swift */; };
 		AFA81B6729363CF900D0BD72 /* AsyncLetBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFA81B6629363CF900D0BD72 /* AsyncLetBootcamp.swift */; };
 		AFF070252932512A00946097 /* DownloadImageAsync.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFF070242932512A00946097 /* DownloadImageAsync.swift */; };
+		AFF97118293792BE00540EF1 /* TaskGroupBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFF97117293792BE00540EF1 /* TaskGroupBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +28,7 @@
 		AF2044E229339D36004DEF50 /* AsyncAwaitBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AsyncAwaitBootcamp.swift; sourceTree = "<group>"; };
 		AFA81B6629363CF900D0BD72 /* AsyncLetBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AsyncLetBootcamp.swift; sourceTree = "<group>"; };
 		AFF070242932512A00946097 /* DownloadImageAsync.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DownloadImageAsync.swift; sourceTree = "<group>"; };
+		AFF97117293792BE00540EF1 /* TaskGroupBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskGroupBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,6 +67,7 @@
 				AF2044E229339D36004DEF50 /* AsyncAwaitBootcamp.swift */,
 				AF1D2CAB2934EDED0075AF38 /* TaskBootcamp.swift */,
 				AFA81B6629363CF900D0BD72 /* AsyncLetBootcamp.swift */,
+				AFF97117293792BE00540EF1 /* TaskGroupBootcamp.swift */,
 				AF06071B2930FD5C0070F53D /* Assets.xcassets */,
 				AF06071D2930FD5C0070F53D /* Preview Content */,
 			);
@@ -153,6 +156,7 @@
 				AF1D2CAC2934EDED0075AF38 /* TaskBootcamp.swift in Sources */,
 				AFF070252932512A00946097 /* DownloadImageAsync.swift in Sources */,
 				AF0607262930FD920070F53D /* DoCatchTryThrowsBootcamp.swift in Sources */,
+				AFF97118293792BE00540EF1 /* TaskGroupBootcamp.swift in Sources */,
 				AF0607182930FD5A0070F53D /* SwiftConcurrencyBootcampApp.swift in Sources */,
 				AFA81B6729363CF900D0BD72 /* AsyncLetBootcamp.swift in Sources */,
 			);
